@@ -5,7 +5,11 @@
 	],
 	"installed_packages":
 	[
+		"Anaconda",
+		"GitGutter",
 		"Package Control",
-		"SideBarEnhancements"
+		"requirementstxt",
+		"SideBarEnhancements",
+		"SublimeLinter"
 	]
 }
